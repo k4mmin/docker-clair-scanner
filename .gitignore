@@ -1,0 +1,6 @@
+*.jpg
+*.png
+*.md
+clair_reports
+volumes
+*.sql
